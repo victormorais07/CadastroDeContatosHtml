@@ -1,0 +1,105 @@
+body{
+    background-color: black;
+    font-family: verdana;
+    font-size: 13pt;
+  
+}
+
+section{
+background: #f3e7e7da;
+border-radius: 10px;
+padding: 15px;
+width: 800px;
+height: 700px;
+margin: auto;
+box-shadow: 5px 5px 5px 5px #88a4afd5;
+
+}
+
+header{
+color: white;
+text-align: center;
+
+
+
+}
+footer{
+color: white;
+text-align: center;
+font-style: italic;
+
+}
+#formulario{
+    background: #887e7e70;
+margin-top: 30px;
+margin-left: 15px;
+ width: 750px;
+ height: 600px;
+ border: 2px black solid;
+}
+#topo{
+             padding-left: 2px;
+       font-size: 13pt;
+       border: 1px black solid;
+       width: 748px;
+       height: 26px;
+       position: absolute;
+
+
+}
+#botao1{
+    margin-left: 513px;
+    font-weight: bold ;
+    background: red;
+    width: 40px;
+    border-radius: 5px;
+    font-size: 13pt;
+    color: white;
+
+}
+
+#p1{
+   padding-top: 3px;
+   padding-left: 5px;
+   border: 1px black solid;
+   width: 285px;
+   height: 246px;
+   position: absolute;
+ 
+   font-size: 12pt;
+
+
+}
+#p2{
+    width: 405px;
+    height: 520px;
+    position: absolute;
+    border: 1px black solid;
+    margin-left: 300px;
+    
+    font-size: 12pt;
+    padding-top: 3px;
+   padding-left: 5px;
+
+}
+#img{
+
+    height: 100px;
+     
+
+}
+#bt2{
+
+ margin-left: 200px;
+
+}
+.c{
+font-weight: bold ;
+
+}
+#fim{
+   position: absolute;
+   margin-top: 540px;
+   margin-left: 300px;
+
+}
